@@ -2,7 +2,7 @@ package com.yancy;
 
 /**
  * 启动类
- * @author lenovo
+ * @author yancy
  *
  */
 public class Main {
